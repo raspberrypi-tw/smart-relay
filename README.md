@@ -1,6 +1,6 @@
 # Smart Relay
 
-Learn from GPIO to control Relay.
+Learn how to control GPIO to Relay.
 
 <center>
 <img src="https://www.raspberrypi.com.tw/wp-content/uploads/2018/03/Smart-Relay-Learning-Kit-s.jpg">
@@ -22,7 +22,7 @@ $ sudo apt-get update
 $ sudo apt-get -y install python-pip python-dev x11vnc python3-dev 
 ```
 
-## Buy Camera and accessories and more
+## Buy Smart Relay
 
 See [Smart Relay](https://www.raspberrypi.com.tw/19657/smart-relay-kit/)
 
